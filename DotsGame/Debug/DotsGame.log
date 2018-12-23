@@ -1,0 +1,19 @@
+﻿  AudioManager.cpp
+  Dot.cpp
+  Game.cpp
+  GameObject.cpp
+  GameOverState.cpp
+  GameState.cpp
+d:\careers\staramba\dotsgame\dotsgame\gamestate.cpp(39): warning C4018: '<': signed/unsigned mismatch
+  State.cpp
+  GameStateMachine.cpp
+  InputHandler.cpp
+d:\careers\staramba\dotsgame\dotsgame\inputhandler.cpp(72): warning C4244: 'argument': conversion from 'Sint32' to 'float', possible loss of data
+d:\careers\staramba\dotsgame\dotsgame\inputhandler.cpp(73): warning C4244: 'argument': conversion from 'Sint32' to 'float', possible loss of data
+  IntroState.cpp
+  Main.cpp
+  TextureManager.cpp
+  Tile.cpp
+  Vector2D.cpp
+  Generating Code...
+  DotsGame.vcxproj -> D:\Careers\Staramba\DotsGame\Debug\DotsGame.exe
