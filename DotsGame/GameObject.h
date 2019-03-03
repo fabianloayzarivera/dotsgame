@@ -25,6 +25,7 @@ public:
 	const bool			isMarkedToDelete() const ;
 	void				playSound() const;
 	void				setDeleteMark(bool mark);
+
 protected:
 
 	Vector2D			m_position; 
